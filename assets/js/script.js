@@ -31,6 +31,7 @@ window.addEventListener('scroll' , handleScroll)
 
 // functions
 
+
 function handleSliderDotClick(e) {
     const slider_height = document.querySelector('.slick-list.draggable').getBoundingClientRect().height
     const sliderClickedNumber = e.target.getAttribute('aria-label')
@@ -86,11 +87,6 @@ function openSubMenu(e) {
     }
     menuItem.querySelector('.submenu').classList.toggle('active')
 }
-
-// sticky header 
-
-
-window.addEventListener('scroll' , )
 
 // scroll to top visibility 
 function scrollBtnVisibility() {
