@@ -2369,7 +2369,7 @@ footer .footer-bottom .container {
     }
     .advice-section .content-left {
         width: 100%;
-        margin: 0 -7px;
+        margin: 0 auto;
     }
     .advice-section .content-right .btn-dark {
         margin-bottom: 0 !important;
@@ -2936,10 +2936,6 @@ footer .footer-bottom .container {
     }
     .advice-section .content-right .section-header {
         font-size: 26px;
-    }
-    .advice-section .content-left li {
-        display: flex;
-        height: auto;
     }
     .advice-section .content-left li a {
         width: auto;
