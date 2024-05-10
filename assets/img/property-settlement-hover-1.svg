@@ -1,0 +1,18 @@
+<svg id="Group_4105" data-name="Group 4105" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_350" data-name="Rectangle 350" width="60" height="60" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_4109" data-name="Group 4109">
+    <g id="Group_4108" data-name="Group 4108" clip-path="url(#clip-path)">
+      <path id="Path_2493" data-name="Path 2493" d="M29.836,1,1,21.464v6.511H7.511V24.255L29.836,8.442,52.161,24.255v4.651h6.511V21.464Z" transform="translate(-0.07 -0.07)" fill="none" stroke="#1a2c43" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_2494" data-name="Path 2494" d="M44,3.791V1H55.162V12.162" transform="translate(-3.071 -0.07)" fill="none" stroke="#1a2c43" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_2495" data-name="Path 2495" d="M52.65,34.93V60.976H8V34" transform="translate(-0.558 -2.373)" fill="none" stroke="#1a2c43" stroke-linecap="square" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+  <rect id="Rectangle_351" data-name="Rectangle 351" width="9" height="9" transform="translate(18 27)" fill="none" stroke="#1a2c43" stroke-linecap="square" stroke-linejoin="round" stroke-width="2"/>
+  <rect id="Rectangle_352" data-name="Rectangle 352" width="9" height="9" transform="translate(33 27)" fill="none" stroke="#1a2c43" stroke-linecap="square" stroke-linejoin="round" stroke-width="2"/>
+  <rect id="Rectangle_353" data-name="Rectangle 353" width="9" height="9" transform="translate(18 42)" fill="none" stroke="#1a2c43" stroke-linecap="square" stroke-linejoin="round" stroke-width="2"/>
+  <rect id="Rectangle_354" data-name="Rectangle 354" width="9" height="9" transform="translate(33 42)" fill="none" stroke="#1a2c43" stroke-linecap="square" stroke-linejoin="round" stroke-width="2"/>
+</svg>
