@@ -2191,9 +2191,9 @@ footer .footer-bottom .container {
         right: 0 !important;
         bottom: 0;
         background: var(--light-white-theme-color);
-        transition: var(--transition-05);
         z-index: var(--z-index-9);
         transform: translateX(100%);
+        transition: var(--transition-05);
     }
     .header .main-header .nav-menu-links.active {
         display: inline-block;
