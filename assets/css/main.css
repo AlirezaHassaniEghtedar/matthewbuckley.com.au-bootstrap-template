@@ -879,7 +879,21 @@ input[type="text"], input[type="submit"], input[type="email"], textarea {
     max-height: 100%;
     width: 100%;
     height: 100%;
-    
+}
+
+.advice-section .content-left li .item-link img {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    max-height: 100%;
+    max-width: inherit;
+    left: 0;
+    top: 0;
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+    z-index: -1;
+    overflow: hidden;    
 }
 
 .advice-section .content-left li:hover .item-link img {
@@ -2354,7 +2368,7 @@ footer .footer-bottom .container {
         line-height: 24px;
     }
     .advice-section .content-left {
-        width: auto;
+        width: 100%;
         margin: 0 -7px;
     }
     .advice-section .content-right .btn-dark {
@@ -2895,6 +2909,9 @@ footer .footer-bottom .container {
     .header .overlay , 
     .header .main-header .nav-menu-links {
         height: calc(100% - 137.85px);
+    }
+    .home-page .home-banner .banner-item {
+        margin-top: 41.6px;
     }
 }
 
