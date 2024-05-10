@@ -9,6 +9,7 @@ const mainHeader = document.querySelector('header .main-header')
 const header = document.querySelector('header')
 const mobile_menu_items_has_a_submenu = document.querySelectorAll('.header .main-header .nav-menu-links ul li.has-a-sub > a')
 const scrollToTop = document.querySelector('.scrollTop');
+const tabHeadings = document.querySelectorAll('.footer-heading')
 
 
 // Event Listeners
@@ -104,7 +105,6 @@ function scrollBtnVisibility() {
 
 // footer accordion 
 
-const tabHeadings = document.querySelectorAll('.footer-heading')
 tabHeadings.forEach(item => item.addEventListener('click' , openTab))
 
 function openTab(e) {
