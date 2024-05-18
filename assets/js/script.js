@@ -63,7 +63,7 @@ function toggleMobileMenuBtnStyle() {
 function handleMobileMenuTopDistance(){
     const headerHeight = document.querySelector('.header').getBoundingClientRect().height
     overlay.style.height = `calc(100% - ${headerHeight}px)`
-    mobileNavMenu.style.height = `calc(100% - ${headerHeight - 0.5}px)`
+    mobileNavMenu.style.height = `calc(100% - ${headerHeight}px)`
 }
 function handleStickyHeader() {
     if(scrollY > 0) {
