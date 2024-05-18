@@ -1,0 +1,24 @@
+<svg id="legal-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39" height="39" viewBox="0 0 39 39">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.697" y1="-0.53" x2="1.116" y2="1.095" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6a88ae"/>
+      <stop offset="1" stop-color="#1a2c43"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="19.5" cy="19.5" r="19.5" transform="translate(254 3783)" fill="#f29f1e"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_323" data-name="Rectangle 323" width="26.142" height="28.901" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_4069" data-name="Group 4069" transform="translate(-254 -3783)">
+    <g id="Group_4065" data-name="Group 4065" transform="translate(-104 -265)">
+      <circle id="Ellipse_6-2" data-name="Ellipse 6" cx="19.5" cy="19.5" r="19.5" transform="translate(358 4048)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="Mask_Group_8" data-name="Mask Group 8" clip-path="url(#clip-path)">
+      <g id="Group_4068" data-name="Group 4068" transform="translate(260.429 3794.774)" clip-path="url(#clip-path-2)">
+        <path id="Path_2464" data-name="Path 2464" d="M13.924,28.9V8.264a.9.9,0,0,1,1.79,0V28.9ZM13.071,2.476H26.142L26.136,0c-4.479,0-8.777.013-13.065.026C8.782.013,4.484,0,.005,0L0,2.476Zm1,1.366H3.092V3.85A2.878,2.878,0,1,0,6.205,6.72a2.839,2.839,0,0,0-.212-1.08H20.148a2.835,2.835,0,0,0-.211,1.08A2.894,2.894,0,1,0,23.05,3.85V3.842ZM8.514,28.9H6.724V8.264a.895.895,0,0,1,1.79,0Zm3.7,0h-1.79V8.264a.89.89,0,0,1,.451-.771l.019-.01.019-.01h0l.02-.01.019-.009.02-.009L11,7.436l.02-.008.02-.007h0l.021-.007h0l.021-.006h0L11.1,7.4h0l.021-.005h0l.021,0h0l.021,0h0l.021,0h0l.022,0h0l.021,0h0l.021,0h0l.022,0h.093l.022,0h0l.022,0h0l.021,0h0l.022,0h0l.021,0h0l.021,0h0l.021,0h0l.021.005h0l.021.006.021.006h0l.02.007.02.007h0l.02.008h0l.02.008h0l.02.009.02.009.02.01.019.01h0l.019.01.019.011.018.011h0l.018.012.018.013.017.013h0l.017.013.033.027h0c.016.014.032.028.047.043l.015.015h0l.014.016h0L12,7.682l.027.033h0c.013.016.026.034.037.052h0l.023.036.011.019.011.019.01.019.009.019.009.019.009.02h0l.008.02h0l.008.02h0l.007.02L12.177,8l.006.021.006.021.005.021.005.022,0,.021,0,.022,0,.023h0l0,.022,0,.022,0,.023V28.9Zm5.411,0V8.264a.895.895,0,0,1,1.79,0V28.9Z" fill="#fff" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>
