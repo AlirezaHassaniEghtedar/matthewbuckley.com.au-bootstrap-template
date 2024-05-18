@@ -49,12 +49,6 @@ function toggleMobileMenu() {
     }
 }
 
-function handleMobileMenuBtnTopDistance() {
-    const headerHeight = document.querySelector('.header').getBoundingClientRect().height
-    const headerBtnContainer = document.querySelector('.header .header-left-book')
-    headerBtnContainer.style.top = `${headerHeight - 1}px`
-}
-
 function toggleMobileMenuBtnStyle() {
     if(toggleMobileMenuBtn.classList.contains('active')) { // if it was true => the menu was open and active 
         toggleMobileMenuBtn.classList.remove('active')
@@ -62,9 +56,15 @@ function toggleMobileMenuBtnStyle() {
     } else { // if was not true => the menu was close and not active
         toggleMobileMenuBtn.classList.add('active')
         overlay.classList.add('active')
+        handleMobileMenuTopDistance()
     }
 }
 
+function handleMobileMenuTopDistance(){
+    const headerHeight = document.querySelector('.header').getBoundingClientRect().height
+    overlay.style.height = `calc(100% - ${headerHeight}px)`
+    mobileNavMenu.style.height = `calc(100% - ${headerHeight - 1}px)`
+}
 function handleStickyHeader() {
     if(scrollY > 0) {
         header.classList.add('sticky')
