@@ -29,6 +29,8 @@ slider_dots.forEach(dot => dot.addEventListener('click' , handleSliderDotClick))
 mobile_menu_items_has_a_submenu.forEach(item => item.addEventListener('click' , openSubMenu))
 window.addEventListener('scroll' , handleScroll)
 
+window.addEventListener('resize' , handleMobileMenuTopDistance)
+
 // functions
 
 
